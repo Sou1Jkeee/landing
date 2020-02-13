@@ -1,0 +1,20 @@
+.intro {
+  background-color: rgb(255, 255, 255);;
+  background-image: linear-gradient(rgba(57, 22, 184, 0), rgba(153, 153, 153, 0.3) 95%),
+                    url("../images/logo.jpg");
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-attachment: scroll, fixed;
+  background-position: 0 0, center top;
+
+  color: silver;
+  padding: 128px;
+  margin-top: 78px;
+  text-align: center;
+}
+
+.intro-logo {
+  width: 120px;
+  height: auto;
+  margin-bottom: 40px;
+}

@@ -1,0 +1,25 @@
+.review {
+  padding: 28px;
+  margin: 20px;
+  font-style: italic;
+  font-size: 19px;
+  color: #333;
+  border: 2px solid;
+  border-color: #ddff;
+  border-radius: 18px;
+}
+
+.review h3 {
+  text-shadow: rgb(255, 255, 255) 0 0 9px;
+  text-align: start;
+  margin: 3px;
+  color: steelblue;
+
+}
+
+.review img {
+  max-width: 128px;
+  height: auto;
+  margin: 6px;
+  border-radius: 12px;
+}
