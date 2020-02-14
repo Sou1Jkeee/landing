@@ -15,7 +15,15 @@
   color: whitesmoke;
 }
 
+.button-silver:hover {
+  background: rgb(99, 99, 99);
+}
+
 .button-steelblue {
   background: steelblue;
   color: whitesmoke;
+}
+
+.button-steelblue:hover {
+  background: rgb(48, 89, 122);
 }
