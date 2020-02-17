@@ -113,5 +113,6 @@
 }
 
 .buy {
+  position: relative;
   text-align: center;
 }
